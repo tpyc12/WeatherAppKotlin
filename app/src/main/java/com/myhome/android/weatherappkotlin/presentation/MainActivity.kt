@@ -1,7 +1,8 @@
-package com.myhome.android.weatherappkotlin
+package com.myhome.android.weatherappkotlin.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.myhome.android.weatherappkotlin.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
