@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:enabled="true"
+        android:icon="@drawable/home_48px"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/settings"
+        android:enabled="true"
+        android:icon="@drawable/settings_48px"
+        android:title="Settings"/>
+
+    <item
+        android:id="@+id/info"
+        android:enabled="true"
+        android:icon="@drawable/info_48px"
+        android:title="Info"/>
+
+</menu>
